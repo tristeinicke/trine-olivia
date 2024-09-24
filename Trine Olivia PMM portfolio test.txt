@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trine Olivia - Product Marketing Portfolio">
+    <meta name="keywords" content="Product Marketing, SaaS, Growth, Tech, Portfolio">
+    <title>Trine Olivia | Product Marketing Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #4CAF50;
+        }
+        section {
+            padding: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        section h2 {
+            color: #4CAF50;
+            font-size: 2em;
+        }
+        section p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 0;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Trine Olivia</h1>
+        <p>Product Marketing & Growth Leadership</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Trine Olivia, a seasoned Product Marketing Leader with over 5 years of experience in driving growth for high-tech and SaaS companies. 
+            My expertise lies in developing go-to-market strategies, product positioning, and delivering impactful results that scale.
+        </p>
+        <p>
+            Having worked in various markets and industries, my focus is on connecting innovative products with the right audience through strategic 
+            marketing approaches and data-driven decisions. I'm passionate about aligning marketing with product development to drive exponential growth.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Highlighted Projects</h2>
+        <p>Here are a few notable projects that demonstrate my capabilities in product marketing:</p>
+        <ul>
+            <li><strong>SaaS Go-to-Market Strategy:</strong> Successfully launched a new SaaS product targeting the B2B education sector, resulting in a 50% increase in client acquisition.</li>
+            <li><strong>Product Positioning for Tech Startup:</strong> Repositioned a tech startup's flagship product, boosting its competitive edge in a crowded marketplace.</li>
+            <li><strong>Growth Marketing for SaaS:</strong> Spearheaded a growth marketing initiative that increased user acquisition by 40% in 6 months.</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <p>My professional experience includes leading roles in:</p>
+        <ul>
+            <li>Product Marketing Lead at a high-growth SaaS company</li>
+            <li>Head of Marketing Strategy for a global e-commerce brand</li>
+            <li>Strategic Partnerships Manager in a media agency</li>
+            <li>Digital Media Buyer & Planner across international markets</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you're interested in discussing how I can contribute to your product's growth or want to learn more about my experience, feel free to get in touch!</p>
+        <a href="mailto:trine.olivia@example.com" class="button">Contact Me</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Trine Olivia | Product Marketing Portfolio</p>
+    </footer>
+
+</body>
+</html>
